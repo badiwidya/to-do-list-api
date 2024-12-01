@@ -6,7 +6,7 @@ This is a to do list REST API, integrated with Mongoose to organize tasks along 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/simple-crud-api-blog.git
+    git clone https://github.com/badiwidya/to-do-list-api.git
     ```
 2. Navigate to the project directory:
     ```sh
